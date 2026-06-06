@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PZ19BelyaevVadim"
+rootProject.name = "PR19-pr-23.103-fn"
 include(":app")
